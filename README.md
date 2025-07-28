@@ -32,3 +32,11 @@ npm test
 cd frontend
 npm test
 ``` 
+
+
+## Extra Credit ! 
+```
+docker-compose up --build
+```
+
+view on localhost:3000
